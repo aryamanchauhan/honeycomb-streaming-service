@@ -14,7 +14,6 @@ HoneyComb is a meticulously crafted web application designed to revolutionize on
     
 Access the Application: Open your web browser and go to http://localhost:3000 (or another port specified in vite.config.js) to view the running application.
 
-*These steps assume that the project uses Vite as the build tool (vite.config.js suggests this). Adjustments may be needed based on specific project requirements or configurations.*
 
 ![worflow](https://github.com/aryamanchauhan/Honey-Comb/assets/132805331/f3393f8e-d071-45a5-bdc4-34f777969f46)
 
