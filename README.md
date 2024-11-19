@@ -37,11 +37,3 @@ Access the Application: Open your web browser and go to http://localhost:3000 (o
 
 4. Tailwind CSS: Utilized for rapid prototyping and styling, ensuring a consistent and visually appealing user interface.
 Installation
-
-
-## We welcome contributions to enhance HoneyComb's features and performance. If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository and clone it locally.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push them to your fork.
-4. Submit a pull request with a detailed description of your changes.
