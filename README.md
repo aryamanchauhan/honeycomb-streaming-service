@@ -1,5 +1,3 @@
-HoneyComb is a meticulously crafted web application designed to revolutionize online video streaming by combining the essence of leading platforms with innovative features and a seamless user experience.
-
 ## To run HoneyComb locally, follow these steps:
 
 1. Install Node.js and npm: Ensure Node.js and npm (Node Package Manager) are installed on your system. You can download them from nodejs.org.
