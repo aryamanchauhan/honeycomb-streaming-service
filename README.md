@@ -45,9 +45,3 @@ Installation
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push them to your fork.
 4. Submit a pull request with a detailed description of your changes.
-
-
-## Acknowledgments
-
-Inspiration and design influenced by leading video streaming platforms.
-Built with the support of the open-source community and modern web technologies.
